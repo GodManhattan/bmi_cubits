@@ -12,3 +12,5 @@ things in this project:
 -local storage
 -crud
 -gauge widgets
+
+![Alt Text](assets/videos/untitled.mp4)
