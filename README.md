@@ -14,3 +14,4 @@ things in this project:
 -gauge widgets
 
 <video src="assets/videos/untitled.mp4" controls width="600"></video>
+![Demo GIF](assets/videos/untitled.mp4)
