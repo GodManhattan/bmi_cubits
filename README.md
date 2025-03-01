@@ -13,5 +13,5 @@ things in this project:
 -crud
 -gauge widgets
 
-<video src="assets/videos/untitled.mp4" controls width="600"></video>
-![Demo GIF](assets/videos/untitled.mp4)
+<video src="assets/videos/sample_app.mp4" controls width="600"></video>
+![Demo GIF](assets/videos/sample_app.mp4)
