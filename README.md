@@ -13,4 +13,4 @@ things in this project:
 -crud
 -gauge widgets
 
-![Alt Text](assets/videos/untitled.mp4)
+<video src="assets/videos/untitled.mp4" controls width="600"></video>
